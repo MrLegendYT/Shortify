@@ -1,0 +1,5 @@
+{
+  "name": "Shortify",
+  "description": "A smart, AI-powered URL shortener that generates concise aliases for your long links using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
